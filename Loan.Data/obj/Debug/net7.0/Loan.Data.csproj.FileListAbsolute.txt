@@ -1,0 +1,17 @@
+C:\Users\elies\source\repos\Loan\Loan.Data\bin\Debug\net7.0\Loan.Data.deps.json
+C:\Users\elies\source\repos\Loan\Loan.Data\bin\Debug\net7.0\Loan.Data.runtimeconfig.json
+C:\Users\elies\source\repos\Loan\Loan.Data\bin\Debug\net7.0\Loan.Data.dll
+C:\Users\elies\source\repos\Loan\Loan.Data\bin\Debug\net7.0\Loan.Data.pdb
+C:\Users\elies\source\repos\Loan\Loan.Data\bin\Debug\net7.0\Loan.Core.dll
+C:\Users\elies\source\repos\Loan\Loan.Data\bin\Debug\net7.0\Loan.Core.pdb
+C:\Users\elies\source\repos\Loan\Loan.Data\obj\Debug\net7.0\Loan.Data.csproj.AssemblyReference.cache
+C:\Users\elies\source\repos\Loan\Loan.Data\obj\Debug\net7.0\Loan.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elies\source\repos\Loan\Loan.Data\obj\Debug\net7.0\Loan.Data.AssemblyInfoInputs.cache
+C:\Users\elies\source\repos\Loan\Loan.Data\obj\Debug\net7.0\Loan.Data.AssemblyInfo.cs
+C:\Users\elies\source\repos\Loan\Loan.Data\obj\Debug\net7.0\Loan.Data.csproj.CoreCompileInputs.cache
+C:\Users\elies\source\repos\Loan\Loan.Data\obj\Debug\net7.0\Loan.Data.csproj.CopyComplete
+C:\Users\elies\source\repos\Loan\Loan.Data\obj\Debug\net7.0\Loan.Data.dll
+C:\Users\elies\source\repos\Loan\Loan.Data\obj\Debug\net7.0\refint\Loan.Data.dll
+C:\Users\elies\source\repos\Loan\Loan.Data\obj\Debug\net7.0\Loan.Data.pdb
+C:\Users\elies\source\repos\Loan\Loan.Data\obj\Debug\net7.0\Loan.Data.genruntimeconfig.cache
+C:\Users\elies\source\repos\Loan\Loan.Data\obj\Debug\net7.0\ref\Loan.Data.dll

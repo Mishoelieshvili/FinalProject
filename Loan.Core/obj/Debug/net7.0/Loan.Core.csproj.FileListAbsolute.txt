@@ -1,0 +1,12 @@
+C:\Users\elies\source\repos\Loan\Loan.Core\bin\Debug\net7.0\Loan.Core.deps.json
+C:\Users\elies\source\repos\Loan\Loan.Core\bin\Debug\net7.0\Loan.Core.dll
+C:\Users\elies\source\repos\Loan\Loan.Core\bin\Debug\net7.0\Loan.Core.pdb
+C:\Users\elies\source\repos\Loan\Loan.Core\obj\Debug\net7.0\Loan.Core.csproj.AssemblyReference.cache
+C:\Users\elies\source\repos\Loan\Loan.Core\obj\Debug\net7.0\Loan.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elies\source\repos\Loan\Loan.Core\obj\Debug\net7.0\Loan.Core.AssemblyInfoInputs.cache
+C:\Users\elies\source\repos\Loan\Loan.Core\obj\Debug\net7.0\Loan.Core.AssemblyInfo.cs
+C:\Users\elies\source\repos\Loan\Loan.Core\obj\Debug\net7.0\Loan.Core.csproj.CoreCompileInputs.cache
+C:\Users\elies\source\repos\Loan\Loan.Core\obj\Debug\net7.0\Loan.Core.dll
+C:\Users\elies\source\repos\Loan\Loan.Core\obj\Debug\net7.0\refint\Loan.Core.dll
+C:\Users\elies\source\repos\Loan\Loan.Core\obj\Debug\net7.0\Loan.Core.pdb
+C:\Users\elies\source\repos\Loan\Loan.Core\obj\Debug\net7.0\ref\Loan.Core.dll
